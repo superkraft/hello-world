@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-c'est le tuto
+Voici le tuto
 
 Salut l'ami ça va bien ou...
 Chabadabidou
